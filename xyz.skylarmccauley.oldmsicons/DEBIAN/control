@@ -1,0 +1,11 @@
+Package: xyz.skylarmccauley.oldmsicons
+Name: Old Microsoft Icons
+Version: 1.0~1
+Architecture: iphoneos-arm
+Description: Change Microsoft Applications back to their original icons
+Maintainer: Skylar McCauley
+Homepage: https://skylarmccauley.xyz/
+Depiction: http://apt.skylarmccauley.xyz/depic/xyz.skylarmccauley.oldmsicons/
+SileoDepiction: https://apt.skylarmccauley.xyz/depic/xyz.skylarmccauley.oldmsicons/sileo.json
+Author: Skylar McCauley
+Section: Themes
